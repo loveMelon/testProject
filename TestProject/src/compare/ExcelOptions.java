@@ -26,7 +26,9 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import entity.CompareField;
 
 public class ExcelOptions {
+
 	//2222aaaa
+
 	private static String[] fields = null;
 	
 	private static boolean isSuccessfuly = false;
